@@ -15,13 +15,12 @@ Each item in the Treasure Vault has several attributes that change it's apperean
 ### Rarity Table
 | Rarity | Color | Amount |
 | ----- | ----- | ----- |
-| Common | White | 10k |
-| Uncommon | Green | 5k |
-| Rare | Blue | 1k | |
-| Epic | Cyan | 500 |
-| Mythic | Purple | 50 |
-| Legendary | Gold | 10 |
-| Godlike | Red | 1 |
-| Unique | Pink | 1 |
 
-<span style="color:red">Red</span>
+| <span style="color: #bababa">Common</span> | White | 10k |
+| <span style="color: #31bd24">Uncommon</span> | Green | 5k |
+| <span style="color: #242dbd">Rare</span> | Blue | 1k | |
+| <span style="color: #24bd9f">Epic</span> | Cyan | 500 |
+| <span style="color: #7f24bd">Mythic</span> | Purple | 50 |
+| <span style="color: #bd9224">Legendary</span> | Gold | 10 |
+| <span style="color: #bd2424">Godlike</span> | Red | 1 |
+| <span style="color: #bd2449">Unique</span> | Pink | 1 |
