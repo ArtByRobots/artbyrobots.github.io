@@ -1,3 +1,9 @@
+---
+title: Treasure Vault
+layout: template
+filename: treasure_vault
+---
+
 # Treasure Vault
 
 ## About
