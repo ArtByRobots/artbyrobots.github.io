@@ -23,3 +23,5 @@ Each item in the Treasure Vault has several attributes that change it's apperean
 | Legendary | Gold | 10 |
 | Godlike | Red | 1 |
 | Unique | Pink | 1 |
+
+<span style="color:red">Red</span>
