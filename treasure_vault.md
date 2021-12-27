@@ -14,8 +14,7 @@ Each item in the Treasure Vault has several attributes that change it's apperean
 
 ### Rarity Table
 | Rarity | Color | Amount |
-| ----- | ----- | ----- |
-
+| :-----: | :-----: | ----- |
 | <span style="color: #bababa">Common</span> | White | 10k |
 | <span style="color: #31bd24">Uncommon</span> | Green | 5k |
 | <span style="color: #242dbd">Rare</span> | Blue | 1k | |
