@@ -7,7 +7,7 @@ filename: treasure_vault
 # Treasure Vault
 
 ## About
-The Treasure Vault is a collection of several NFTs minted on the Polygon blockchain.
+The Treasure Vault is a collection of several NFTs minted on the Polygon blockchain. You can create your very own treasture collection or trade your items with other adventurers for profit. Your path is up to you!
 
 ## The Items
 Each item in the Treasure Vault has several attributes that change it's appereance, furthermore, all items also have a rarity, which determines the item's background color, it's strength and the amount of it that was minted.
