@@ -1,6 +1,6 @@
 ---
 title: Treasure Vault
-layout: treasure_vault
+layout: template
 filename: treasure_vault
 ---
 
